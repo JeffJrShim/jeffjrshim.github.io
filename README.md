@@ -1,2 +1,2 @@
 # Jeff's Little Hut
-Hi, I'm Jeff. An amatuer developer.
+Welcome to my little page! Enjoy your stay here~
