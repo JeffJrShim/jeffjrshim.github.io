@@ -11,5 +11,5 @@ Welcome to my little page! Enjoy your stay here~
 
 ## Socials
 [Twitter](https://twitter.com/JeffJrShim/)<br>
-[My Discord Server](https://discord.gg/RSAetqdhRU)
+[My Discord Server](https://discord.gg/RSAetqdhRU)<br><br>
 And thats it. :^)
