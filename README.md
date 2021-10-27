@@ -10,6 +10,6 @@ Welcome to my little page! Enjoy your stay here~
 - Editor
 
 ## Socials
-[Twitter](https://twitter.com/JeffJrShim/)
+[Twitter](https://twitter.com/JeffJrShim/)<br>
 [My Discord Server](https://discord.gg/RSAetqdhRU)
 And thats it. :^)
