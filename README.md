@@ -1,2 +1,2 @@
 # Welcome!
-Welcome to my little site.
+Hi, I'm Jeff. An amatuer developer.
